@@ -2,7 +2,7 @@
 	font-size: 200%;
 }
 .body {
-	background-color: rgb(152, 255, 212);
+	background-image: linear-gradient(to top right,rgb(0, 0, 0), rgb(152, 255, 212));
 }
 
 .schrift {
@@ -24,7 +24,7 @@
 
 
 	float: right;
-	position: relative;
+	position: fixed;
 	
 }
 .menu a {
